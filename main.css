@@ -1,0 +1,44 @@
+h1{
+    color: blue;
+}
+.panel{
+    font-size: 18px;
+    color: aqua;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    padding: 40px;
+    
+}
+ 
+#notification{
+    font-size: 16px;
+    color: red;
+    margin: 20px;
+}
+
+.primary {
+  background-color: #007bff; /* Синий фон */
+  color: white;             /* Белый текст */
+  border: none;           /* Убираем рамку */
+  padding: 10px 20px;    /* Отступы */
+  border-radius: 5px;     /* Закруглённые углы */
+  cursor: pointer;        /* Курсор-указатель */
+}
+
+.button {
+    border: 2px solid red;
+}
+
+#card {
+    width: 200px;
+    height: 150px;
+    border: 2px solid red;
+}
+.input {
+    width: 200px;
+        height: 150px;
+        border: 2px solid red;
+}
+.hidden {
+    display: none;
+}
